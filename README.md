@@ -15,3 +15,5 @@ Per il Record Linkage Non Supervisionato (K-Means) riferirsi ai notebook: ```Rec
 
 ```sources``` contiene i dataset di partenza, suddivisi a loro volta nelle due sottocartelle relative ai due domini
 ```alignedSchemas``` contiene i risultati dello Schema Alignment
+
+Autori: Samuel Esposito, Sara Gudi, Giulia Maragno, Claudio Vona
